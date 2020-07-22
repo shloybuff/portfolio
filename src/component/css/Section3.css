@@ -1,0 +1,15 @@
+.container__section3{
+    margin-top: 200px;
+
+}
+
+.container__section3 h1{
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.container__card{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

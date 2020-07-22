@@ -1,0 +1,43 @@
+.container__section2{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: 60px;
+    flex-wrap: wrap;
+}
+
+.about{
+    font-size: 32px;
+}
+
+.download{
+    margin-top: 50px;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    background-color: #0bceaf;
+    padding: 5px 25px;
+}
+
+.download a {
+    text-decoration-style: none;
+    color: white;
+
+}
+
+
+#img__section2{
+    max-width: 500px;
+    height: auto;
+    object-fit: contain;
+}
+
+.detail__setions2{
+    width: 500px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.details__vecteur{
+    margin-right: 60px;
+}

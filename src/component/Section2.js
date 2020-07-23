@@ -29,7 +29,7 @@ export const Section2 =()=>{
             <DiMongodb style={{fontSize:23,margin:7}}/>
             <DiGoogleCloudPlatform style={{fontSize:23,margin:7}}/>
             <br />
-            <button className='download'><a href='https://online.flippingbook.com/view/428269/'>Download CV<FaDownload /></a></button>  
+            <button className='download'><a href='https://online.flippingbook.com/view/156580/'>Download CV<FaDownload /></a></button>  
         </div>
     </div>
     )

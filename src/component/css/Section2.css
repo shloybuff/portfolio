@@ -2,7 +2,6 @@
     display: flex;
     justify-content: center;
     margin-top: 150px;
-    margin-left: 60px;
     flex-wrap: wrap;
 }
 
@@ -22,6 +21,7 @@
 .download a {
     text-decoration-style: none;
     color: white;
+    text-align: center;
 
 }
 
@@ -34,8 +34,9 @@
 
 .detail__setions2{
     width: 500px;
-    margin-left: 60px;
+    margin: 40px;
     margin-top: 50px;
+    text-align: justify;
 }
 
 .details__vecteur{

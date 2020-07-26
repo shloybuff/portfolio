@@ -13,7 +13,8 @@ export const Section2 =()=>{
         </div>
         <div className="detail__setions2">
             <h1 className="about">About me</h1>
-            <p>Hello, I’m a Shlomo, web-developer based on Jerusalem. I have rich experience in web site design & building and customization. Also I am good at</p>
+            <p>Hello, I’m a Shlomo, software developer based on Jerusalem. I have rich knowledge in front-end & back-end. 
+I am very passionate about IT in general and I also have a great desire to learn.</p>
             
             <FaHtml5 style={{fontSize:23,margin:7}}/>
             <FaCss3Alt style={{fontSize:23,margin:7}}/>
